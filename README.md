@@ -1,2 +1,2 @@
 # Novious
-Novious - Android APP
+Novious - A Subset of Voiux
